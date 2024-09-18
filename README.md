@@ -1,4 +1,4 @@
-Hi I'm Cynthia base in UK. Here are my projects
+Hi I'm Cinthy base in UK. Here are my projects
 
 #Project 1: Analysis Divvy Bike
 - Understanding customer's pattern in usage e-bike for strategy development
